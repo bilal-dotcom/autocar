@@ -1,3 +1,22 @@
+Link here: https://website-service.netlify.app/
+
+# Service_Website
+Create a fictitious car rental company.
+
+### General Info
+This a multipage website using React App.Also made with a mix of Tailwind CSS and the use of components and assets such as SVG.
+
+
+### Screenshots
+![Capture d’écran (137)](https://i.postimg.cc/RhqgX1dm/Capture-d-cran-140.png)
+![Capture d’écran (137)](https://i.postimg.cc/2SJrwTxk/Capture-d-cran-137.png)
+
+
+### Technologies
+* HTML
+* TailwindCSS
+* React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
