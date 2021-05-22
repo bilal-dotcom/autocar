@@ -8,8 +8,8 @@ This a multipage website using React App.Also made with a mix of Tailwind CSS an
 
 
 ### Screenshots
-![Capture d’écran (137)](https://i.postimg.cc/RhqgX1dm/Capture-d-cran-140.png)
-![Capture d’écran (137)](https://i.postimg.cc/2SJrwTxk/Capture-d-cran-137.png)
+![Capture d’écran (137)](https://i.postimg.cc/g0nVY3cw/Capture-d-cran-25.png)
+![Capture d’écran (137)](https://i.postimg.cc/pdhjNxkz/Capture-d-cran-26.png)
 
 
 ### Technologies
