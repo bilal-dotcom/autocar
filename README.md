@@ -1,4 +1,4 @@
-Link here:https://auto-car.netlify.app/home
+Link here:https://auto-car.netlify.app
 
 # Service_Website
 Create a fictitious car rental company.
